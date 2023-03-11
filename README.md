@@ -1,7 +1,7 @@
 # Hello world!! This is Karan Kumar Singh, I am a student of infotmation technology from Sikkim Manipal Institute Of Technology.
 # My skills are -
-- C++,java 
-- Data structures & Algorithm
+- C++, JAVA  
+-DATA STRUCTURES & ALGORITHM
 - HTML,CSS,JAVASCRIPT 
 - WEB DEVELOPMENT     
 - SEO                 
