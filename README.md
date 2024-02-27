@@ -7,7 +7,7 @@ Experienced in C++, React JS, SQL & JavaScript, I'm Karan Kumar Singh, a dedicat
 
 🚀 **Professional Experience:**
 - **Entry Level Front End Developer:**  New Delhi, IN (2024-01 - Current)
-- **Summer Intern:** Raipur, IN (2023-05 - 2023-06)
+- **Summer Intern:** NIT Raipur, IN (2023-05 - 2023-06)
 
 🛠️ **Highlighted Projects:**
 - **Netflix Clone:** Replicated the Netflix interface with responsive design principles.
