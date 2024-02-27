@@ -1,4 +1,4 @@
-<body style="background-color: #f0f0f0;">
+<body style="background-color: #B5C0D0;">
 # Karan Kumar Singh
 ## Software Engineer | Aspiring Frontend Developer
 
