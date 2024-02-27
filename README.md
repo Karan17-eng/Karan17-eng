@@ -1,10 +1,34 @@
-# Hello world!! This is Karan Kumar Singh, I am a student of infotmation technology from Sikkim Manipal Institute Of Technology.
-# My skills are -
-- C++, JAVA  
--DATA STRUCTURES & ALGORITHM
-- HTML,CSS,JAVASCRIPT 
-- WEB DEVELOPMENT     
-- SEO                 
-# Reach me through [Linkedin](https://www.linkedin.com/in/karan-kumar-singh-031b621a6/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3Bec2ebdf1-f979-4fbd-876e-6539d6ee99cd)
-# Check my [CodeStudio](https://www.codingninjas.com/codestudio/profile/594de514-de4d-4e86-9d6e-73bea774ed6b) account.
-# Check my [CodeChef](https://www.codechef.com/users/karancps17) account.
+<body style="background-color: #f0f0f0;">
+# Karan Kumar Singh
+## Software Engineer | Aspiring Frontend Developer
+
+🌟 **About Me:**
+Experienced in C++, React JS, SQL & JavaScript, I'm Karan Kumar Singh, a dedicated Software Engineer with a passion for crafting beautiful and functional web experiences. Let's turn ideas into stunning realities!
+
+🚀 **Professional Experience:**
+- **Entry Level Front End Developer:**  New Delhi, IN (2024-01 - Current)
+- **Summer Intern:** Raipur, IN (2023-05 - 2023-06)
+
+🛠️ **Highlighted Projects:**
+- **Netflix Clone:** Replicated the Netflix interface with responsive design principles.
+- **News website using NewsAPI:** Delivered real-time news updates with a focus on user experience.
+- **Food Ordering App using React:** Streamlined food ordering with an intuitive React-based interface.
+- **Stock Value Prediction:** Forecasted stock values using sentiment analysis techniques.
+
+🎓 **Education:**
+- Bachelor of Technology in Information Technology: Sikkim Manipal Institute of Technology - Sikkim (2020-10 - Current)
+- Higher Secondary Education: Tulsi Vidya Niketan, Varanasi (2018-05 - 2019-03)
+- Secondary Education: Cambridge Public School, Raxaul (2015-03 - 2017-03)
+
+🏅 **Certifications:**
+- Google Analytics for Beginners
+- Coding Ninjas Certificate for Excellence in C++
+- META Certificate for Frontend Development
+
+🌐 **Connect:**
+- [LinkedIn](https://www.linkedin.com/in/karan-kumar-singh-031b)
+- [Portfolio](https://portfolio-rust-xi83.vercel.app/)
+- [Bold Profile](https://bold.pro/my/karan-kumar-singh/200)
+
+Let's collaborate and create digital wonders together! Reach out, and let's make magic happen! ✨
+</body>
